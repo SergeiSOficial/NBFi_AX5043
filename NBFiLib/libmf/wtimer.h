@@ -8,7 +8,6 @@
 #else
 #define SECONDS(x) 		((uint32_t)(x) * 1000)
 #endif
-#define MILLISECONDS(x) (SECONDS(x) / 1000)
 
 #define ABSOLUTE    0
 #define RELATIVE    1
