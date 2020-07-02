@@ -1,6 +1,8 @@
 #ifndef LIBMFWTIMER_H
 #define LIBMFWTIMER_H
 
+#include <stdint.h>
+
 struct wtimer_callback;
 struct wtimer_desc;
 
